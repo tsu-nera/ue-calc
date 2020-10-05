@@ -5,7 +5,7 @@
 UberEats 売上仕訳計算ツール。
 
 - Python 3.7
-- Pandas
+- pandas
 
 ## 概要
 
